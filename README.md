@@ -34,4 +34,4 @@ python munich [48.22,11.75,48.04,11.38] bbox closeness 10000
 
 ## Acknowledgements
 - osmnx (a really beautifull library)
-- eevrything else (i-graph, networkx, OSM)
+- evrything else (i-graph, networkx, OSM)
